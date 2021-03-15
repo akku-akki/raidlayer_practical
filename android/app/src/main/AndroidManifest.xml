@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.raidlayer_practical">
+   <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="raidlayer_practical"
         android:icon="@mipmap/ic_launcher">
